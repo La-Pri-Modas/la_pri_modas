@@ -8,7 +8,7 @@
 PRODUCT_NAME = la_pri_modas
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.laPriModas
+PRODUCT_BUNDLE_IDENTIFIER = br.com.lapri.modas
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2022 com.example. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2022 br.com.lapri.modas. All rights reserved.

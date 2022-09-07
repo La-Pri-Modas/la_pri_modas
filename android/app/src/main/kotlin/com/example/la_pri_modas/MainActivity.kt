@@ -1,4 +1,4 @@
-package com.example.la_pri_modas
+package br.com.lapri.modas
 
 import io.flutter.embedding.android.FlutterActivity
 
