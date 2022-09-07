@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "89695943416",
+    "project_id": "la-pri-modas",
+    "storage_bucket": "la-pri-modas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89695943416:android:34eee5d32b0f6f00f1190d",
+        "android_client_info": {
+          "package_name": "br.com.lapri.modas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89695943416-23fldda5qn6ajvua90cnkp3o36nqchph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYGDCR_koDAAs0BjKf8V64opAiUALtVjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89695943416-23fldda5qn6ajvua90cnkp3o36nqchph.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "89695943416-g9gpiut513gqivbcqkcblfekm2lhoimr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.lapri.modas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
